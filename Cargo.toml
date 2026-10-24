@@ -1,0 +1,9 @@
+[package]
+name = "backupfile"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tempfile = "3"
+trash = "5"
+zstd = "0.13"
